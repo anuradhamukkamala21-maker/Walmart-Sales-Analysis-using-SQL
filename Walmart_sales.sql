@@ -1,4 +1,4 @@
-# 📊 Walmart Sales Analysis – SQL Queries with Outputs
+# Walmart Sales Analysis – SQL Queries with Outputs
 
 ------------------------------------------------------------
 1. TOTAL SALES
